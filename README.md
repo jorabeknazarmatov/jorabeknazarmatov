@@ -35,8 +35,8 @@
 
 ### 📬 Contact Me
 
-- Telegram: [@yourusername](https://t.me/yourusername)
-- Email: youremail@example.com
+- Telegram: [@t_n_1996](https://t.me/t_n_1996)
+- Email: admiralno2@gmail.com
 - GitHub: [jorabeknazarmatov](https://github.com/jorabeknazarmatov)
 
 ---
