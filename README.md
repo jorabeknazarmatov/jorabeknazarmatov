@@ -29,6 +29,8 @@
 
 - 🔗 [Yumamu Bot](https://github.com/jorabeknazarmatov/yumamu_bot) – Step-by-step education bot for Telegram with admin/user roles and database tracking
 - 🔗 [Telegram Parser](https://github.com/jorabeknazarmatov/telegram_parser) – Tool for extracting and analyzing Telegram messages
+- 🔗 [Telegram Parser](https://github.com/jorabeknazarmatov/telegram-video-access-bot) telegram-video-access-bot — Telegram bot for distributing exclusive video content via secure access keys.
+Admins upload videos and generate unique keys. Users submit those keys to access the content instantly.
 - 🔧 More coming soon...
 
 ---
