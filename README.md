@@ -37,7 +37,7 @@ Admins upload videos and generate unique keys. Users submit those keys to access
 
 ### 📬 Contact Me
 
-- Telegram: [@t_n_1996](https://t.me/t_n_1996)
+- Telegram: [@Turabek_HSE](https://t.me/Turabek_HSE)
 - Email: admiralno2@gmail.com
 - GitHub: [jorabeknazarmatov](https://github.com/jorabeknazarmatov)
 
