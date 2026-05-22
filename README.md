@@ -1,48 +1,61 @@
-<h1 align="center">Hi there, I'm Turabek 👋</h1>
+<h1 align="center">Hi, I'm Turabek 👋</h1>
 
 <p align="center">
-  🧑‍💻 Junior Python Developer | Telegram Bots | Web Scraping | Automation<br>
-  📍 Based in Uzbekistan | Open to remote freelance & collaboration
+  🐍 Python Developer · Telegram Bots · Web Scraping · Backend Automation<br>
+  📍 Uzbekistan · Open to remote work & collaboration
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔧 I'm currently working as a site administrator in a solar power plant project (full-time)
-- 🧠 Passionate about building automation tools and Telegram bots using Python
-- 📈 Learning every day to improve my freelance skills and create long-term passive income
-- 💼 Previously completed freelance tasks — scraping, bots, data extraction
-- 🎯 Main goal: Pay off all debts and build a stable freelance + passive income system
+- 🔧 **5+ years** of Python development — bots, scrapers, backend APIs, automation
+- 🏗️ Built **15+ freelance projects** end-to-end: requirements → development → delivery
+- 💡 Passionate about automation: if something can be scripted, it will be scripted
+- 🎓 Currently studying at **School 21 Tashkent** (algorithms & software engineering)
+- 🤖 Actively use **AI/LLM tools** (Claude, Cursor) in daily workflow
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Languages:** Python, SQL, HTML/CSS
-- **Frameworks/Libraries:** Aiogram · Asyncio · Requests · BeautifulSoup · Pandas
-- **Tools:** Git · SQLite · VS Code · Telegram Bot API
+| Area | Technologies |
+|------|-------------|
+| **Languages** | Python · SQL · JavaScript |
+| **Backend** | FastAPI · Django · REST API |
+| **Bots** | aiogram · python-telegram-bot · Telethon |
+| **Scraping** | Playwright · BeautifulSoup · httpx · async/multiprocessing |
+| **Database** | PostgreSQL · SQLite · SQLAlchemy · Pydantic |
+| **Tools** | Git · Docker · Linux · VS Code |
 
 ---
 
 ### 📌 Featured Projects
 
-- 🔗 [Yumamu Bot](https://github.com/jorabeknazarmatov/yumamu_bot) – Step-by-step education bot for Telegram with admin/user roles and database tracking
-- 🔗 [Telegram Parser](https://github.com/jorabeknazarmatov/telegram_parser) – Tool for extracting and analyzing Telegram messages
-- 🔗 [Telegram video access](https://github.com/jorabeknazarmatov/telegram-video-access-bot) telegram-video-access-bot — Telegram bot for distributing exclusive video content via secure access keys.
-Admins upload videos and generate unique keys. Users submit those keys to access the content instantly.
-- 🔧 More coming soon...
+🔗 **[Online Testing Platform](https://github.com/jorabeknazarmatov/Test_platform)**
+> Full-stack college exam system · FastAPI + React + PostgreSQL · OTP auth · Excel import/export · Admin panel
+
+🔗 **[Yumamu Bot](https://github.com/jorabeknazarmatov/yumamu_bot)**
+> Step-by-step education bot for Telegram with admin/user roles and database tracking
+
+🔗 **[Telegram Parser](https://github.com/jorabeknazarmatov/telegram_parser)**
+> Tool for extracting and analyzing Telegram messages
+
+🔗 **[Telegram Video Access Bot](https://github.com/jorabeknazarmatov/telegram-video-access-bot)**
+> Secure video content distribution via unique access keys · Admin upload + user access flow
 
 ---
 
-### 📬 Contact Me
+### 📬 Contact
 
-- Telegram: [@Turabek_HSE](https://t.me/Turabek_HSE)
-- Email: admiralno2@gmail.com
-- GitHub: [jorabeknazarmatov](https://github.com/jorabeknazarmatov)
+<p>
+  <a href="https://t.me/Turabek_HSE">Telegram: @Turabek_HSE</a> ·
+  <a href="mailto:admiralno2@gmail.com">admiralno2@gmail.com</a> ·
+  <a href="https://github.com/jorabeknazarmatov">GitHub</a>
+</p>
 
 ---
 
 <p align="center">
-  <em>"Small scripts can create massive change." 💡</em>
+  <em>"Automate the boring stuff — focus on what matters." 🤖</em>
 </p>
